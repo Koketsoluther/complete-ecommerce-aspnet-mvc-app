@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CropTrakWeb", "CropTrakWeb\CropTrakWeb.csproj", "{B8869F07-D748-443D-BBF5-07A2065385DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8869F07-D748-443D-BBF5-07A2065385DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8869F07-D748-443D-BBF5-07A2065385DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8869F07-D748-443D-BBF5-07A2065385DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8869F07-D748-443D-BBF5-07A2065385DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9127A2E4-8CFE-4716-BDE7-0ACF130AC544}
+	EndGlobalSection
+EndGlobal
